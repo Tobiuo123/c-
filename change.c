@@ -2,7 +2,7 @@
 int main()
 {
     // int price = 0;
-    // printf("Please enter the amount:");
+    // printf_s("Please enter the amount:");
     // scanf("%d", &price);
     // // int change = 100 - price;
     // // printf("Your change is %d yuan.\n", price);
